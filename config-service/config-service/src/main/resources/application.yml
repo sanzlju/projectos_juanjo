@@ -6,10 +6,10 @@ spring:
       fail-fast: false
       server:
         git:
-          default-label: config-service
-          uri: https://github.com/sanzlju/config-service
+          default-label: config-server
+          uri: https://github.com/sanzlju/projectos_juanjo
           search-paths: config-data
           username: sanzlju
-          password: Piluchi2!
+          password: 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
   application:
     name: config-service
