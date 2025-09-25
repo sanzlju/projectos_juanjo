@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="rtd-compass-releases" />
+      <option name="name" value="rtd-compass-releases" />
+      <option name="url" value="https://citnet.tech.ec.europa.eu/CITnet/nexus/content/repositories/rtd-compass-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="oracle" />
+      <option name="name" value="oracle" />
+      <option name="url" value="https://citnet.tech.ec.europa.eu/CITnet/nexus/content/repositories/oracle/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="rdg-snapshots" />
+      <option name="name" value="rdg-snapshots" />
+      <option name="url" value="https://webgate.ec.europa.eu/RTD/nexus/repository/rdg-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="digit-snapshots" />
+      <option name="name" value="digit-snapshots" />
+      <option name="url" value="https://citnet.tech.ec.europa.eu/CITnet/nexus/content/repositories/digit-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="digit" />
+      <option name="name" value="digit" />
+      <option name="url" value="https://citnet.tech.ec.europa.eu/CITnet/nexus/content/repositories/digit/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="rdg-thirdparty" />
+      <option name="name" value="rdg-thirdparty" />
+      <option name="url" value="https://citnet.tech.ec.europa.eu/CITnet/nexus/repository/rdg-thirdparty/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="rdg-releases" />
+      <option name="name" value="rdg-releases" />
+      <option name="url" value="https://webgate.ec.europa.eu/RTD/nexus/repository/rdg-releases/" />
+    </remote-repository>
+  </component>
+</project>
