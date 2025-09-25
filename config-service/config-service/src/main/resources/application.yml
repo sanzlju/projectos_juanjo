@@ -1,0 +1,15 @@
+server:
+  port: 8081
+spring:
+  cloud:
+    config:
+      fail-fast: false
+      server:
+        git:
+          default-label: config-service
+          uri: https://github.com/sanzlju/config-service
+          search-paths: config-data
+          username: sanzlju
+          password: Piluchi2!
+  application:
+    name: config-service
