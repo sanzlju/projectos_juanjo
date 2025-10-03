@@ -6,8 +6,8 @@ spring:
       enabled: true
       uri: http://localhost:8081
 
-spring.application.name=user-service
-spring.jpa.properties.hibernate.globally_quoted_identifiers=true
-spring.jpa.properties.hibernate.globally_quoted_identifiers_skip_column_definitions = true
-spring.jpa.show-sql=true
-spring.h2.console.enabled=true
+#spring.application.name=user-service
+#spring.jpa.properties.hibernate.globally_quoted_identifiers=true
+#spring.jpa.properties.hibernate.globally_quoted_identifiers_skip_column_definitions = true
+#spring.jpa.show-sql=true
+#spring.h2.console.enabled=true
