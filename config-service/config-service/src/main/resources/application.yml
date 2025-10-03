@@ -6,7 +6,7 @@ spring:
       fail-fast: false
       server:
         git:
-          default-label: config-server
+          default-label: eureka
           uri: https://github.com/sanzlju/projectos_juanjo
           search-paths: config-data
           username: sanzlju
