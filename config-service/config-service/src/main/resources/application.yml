@@ -6,10 +6,10 @@ spring:
       fail-fast: false
       server:
         git:
-          default-label: eureka
+          default-label: multiple-instances
           uri: https://github.com/sanzlju/projectos_juanjo
           search-paths: config-data
           username: sanzlju
-          password: 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
+          password: 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
   application:
     name: config-service
