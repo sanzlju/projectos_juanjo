@@ -10,6 +10,6 @@ spring:
           uri: https://github.com/sanzlju/projectos_juanjo
           search-paths: config-data
           username: sanzlju
-          password: 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
+          password: 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
   application:
     name: config-service
